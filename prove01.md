@@ -60,10 +60,10 @@ Complete the following truth tables (the first one is done for you):
 
 |$p$|$q$|$\neg q$|$p \land \neg q$|
 |:-:|:-:|:-:|:-:|
-|T|T|F||
-|T|F|T||
-|F|T|F||
-|F|F|T||
+|T|T|F|F|
+|T|F|T|T|
+|F|T|F|F|
+|F|F|T|F|
 
 5. $p \land (q \lor \neg r)$
 
@@ -102,7 +102,7 @@ Determine if the following propositions written in English are True or False (th
 |If pigs can fly, then dogs can't fly.|True|
 |$2+1=3$ if and only if $1+2=3$.|True|
 |$1+2=3$ if and only if $3+1=6$.|False|
-|$1+3=2$ if and only if the earth is flat.|False|
+|$1+3=2$ if and only if the earth is flat.|True|
 |$1 \lt 2$ if an only if $2 \lt 3$.|True|
 
 ## Question 4 (5 points)
