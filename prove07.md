@@ -23,7 +23,7 @@ Answer: 100110011001110110111
 
 Referring back to Question 1, how many bits smaller is the encoded value of "MISSISSIPPI" from that of the original string value?  Recall that each unecoded letter is 8 bits and each 1 or 0 in the encoding is 1 bit.
 
-Answer: 
+Answer: 67 bits
 
 ## Question 3 (15 points)
 
