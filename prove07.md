@@ -45,7 +45,7 @@ Identify the Depth First Search tree and the Breadth First Search tree for the g
 |Traversal Type|Traversal|
 |:-:|:-:|
 |Depth First Search Tree||
-|Breadth First Search Tree||
+|Breadth First Search Tree|(a,b),(b,d),(d,e),(e,c),(c,f),(f,g)|
 
 
 
