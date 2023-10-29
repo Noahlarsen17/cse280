@@ -33,8 +33,8 @@ Identify the pre-order and post-order traversal for the tree below.  Your answer
 
 |Traversal Type|Traversal|
 |:-:|:-:|
-|Pre-Order||
-|Post-Order||
+|Pre-Order|A,B,D,H,I,E,J,P,Q,K,C,F,L,M,R,G,N,S,T,O|
+|Post-Order|H,I,D,P,Q,J,K,E,B,L,R,M,F,T,S,N,O,G,C,A|
 
 ## Question 4 (20 points)
 
