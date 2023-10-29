@@ -17,7 +17,7 @@ Using the encoding tree below, encode the word "MISSISSIPPI".
 
 ![](prove07_graph1.png)
 
-Answer: 
+Answer: 100110011001110110111
 
 ## Question 2 (5 points)
 
